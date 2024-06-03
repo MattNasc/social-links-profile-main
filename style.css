@@ -166,6 +166,11 @@ table {
   margin: 24px;
   padding: 24px;
 }
+@media only screen and (min-width: 768px) {
+  .card {
+    padding: 40px;
+  }
+}
 .card__image {
   border-radius: 50%;
   width: 88px;
